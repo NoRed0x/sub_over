@@ -1,1 +1,1 @@
-# sub_over
+ take snapshot from webside that has cname
