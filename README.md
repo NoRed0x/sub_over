@@ -6,9 +6,9 @@ this tool take a list of subdomain and get cname for every subdomain and take sn
 ## Install :-
 ==============
 
-1- git clone https://github.com/NoRed0x/sub_over 
-2- pip3 install -r requirements.txt
-3 -sudo apt-get install eyewitness
+1. git clone https://github.com/NoRed0x/sub_over 
+2. pip3 install -r requirements.txt
+3. sudo apt-get install eyewitness
 
 
 ## Usage :-
