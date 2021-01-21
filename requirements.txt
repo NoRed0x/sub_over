@@ -1,5 +1,4 @@
-sys
-dns
+dnspython
 termcolor
-subprocess
-optparse
+subprocess.run
+optparse-pretty
