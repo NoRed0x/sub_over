@@ -3,6 +3,8 @@
 
 this tool take a list of subdomain and get cname for every subdomain and take snapshot from webside that has cname
 
+<img src="/img/omni/cname.PNG" alt="Getting-gz" width="800" height="440">
+
 ## Install :-
 ==============
 
